@@ -1,0 +1,126 @@
+,rank,bib,rider,age,team,uci,point,time,stage,year
+1,1,77,BETTIOL Alberto,25,EF Education First,500,275,6:18:49,None,2019
+2,2,26,ASGREEN Kasper,24,Deceuninck - Quick Step,400,200,6:19:03,None,2019
+3,3,181,KRISTOFF Alexander,31,UAE-Team Emirates,325,150,6:19:06,None,2019
+4,4,201,VAN DER POEL Mathieu,24,Corendon - Circus,275,120,6:19:06,None,2019
+5,5,146,POLITT Nils,25,Team Katusha Alpecin,225,100,6:19:06,None,2019
+6,6,161,MATTHEWS Michael,28,Team Sunweb,175,90,6:19:06,None,2019
+7,7,51,NAESEN Oliver,28,AG2R La Mondiale,150,80,6:19:06,None,2019
+8,8,11,VALVERDE Alejandro,38,Movistar Team,125,70,6:19:06,None,2019
+9,9,31,BENOOT Tiesj,25,Lotto Soudal,100,60,6:19:06,None,2019
+10,10,61,VAN AVERMAET Greg,33,CCC Team,85,50,6:19:06,None,2019
+11,11,41,SAGAN Peter,29,BORA - hansgrohe,70,46,6:19:06,None,2019
+12,12,33,KEUKELEIRE Jens,30,Lotto Soudal,60,42,6:19:06,None,2019
+13,13,224,VAN GESTEL Dries,24,Sport Vlaanderen - Baloise,50,38,6:19:06,None,2019
+14,14,131,VAN AERT Wout,24,Team Jumbo-Visma,40,34,6:19:06,None,2019
+15,15,73,LANGEVELD Sebastian,34,EF Education First,35,30,6:19:06,None,2019
+16,16,23,JUNGELS Bob,26,Deceuninck - Quick Step,30,28,6:19:06,None,2019
+17,17,21,LAMPAERT Yves,27,Deceuninck - Quick Step,30,26,6:19:06,None,2019
+18,18,157,VAN BAARLE Dylan,26,Team Sky,30,24,6:19:13,None,2019
+19,19,171,STUYVEN Jasper,26,Trek - Segafredo,30,22,6:20:08,None,2019
+20,20,55,VANDENBERGH Stijn,34,AG2R La Mondiale,30,20,6:20:47,None,2019
+21,21,81,TRENTIN Matteo,29,Mitchelton-Scott,20,19,6:20:47,None,2019
+22,22,16,SÜTTERLIN Jasha,26,Movistar Team,20,18,6:20:47,None,2019
+23,23,4,GAUDIN Damien,32,Direct Energie,20,17,6:21:04,None,2019
+24,24,102,GARCÍA CORTINA Iván,23,Bahrain Merida,20,16,6:21:07,None,2019
+25,25,71,VANMARCKE Sep,30,EF Education First,20,15,6:21:09,None,2019
+26,26,7,PETIT Adrien,28,Direct Energie,20,14,6:21:09,None,2019
+27,27,155,ROWE Luke,29,Team Sky,20,13,6:21:09,None,2019
+28,28,111,DÉMARE Arnaud,27,Groupama - FDJ,20,12,6:21:09,None,2019
+29,29,172,DEGENKOLB John,30,Trek - Segafredo,20,11,6:21:09,None,2019
+30,30,105,COLBRELLI Sonny,28,Bahrain Merida,20,10,6:21:09,None,2019
+31,31,133,TEUNISSEN Mike,26,Team Jumbo-Visma,10,9,6:21:09,None,2019
+32,32,121,BOASSON HAGEN Edvald,31,Team Dimension Data,10,8,6:21:09,None,2019
+33,33,101,HAUSSLER Heinrich,35,Bahrain Merida,10,7,6:21:09,None,2019
+34,34,37,WELLENS Tim,27,Lotto Soudal,10,6,6:21:09,None,2019
+35,35,141,DEBUSSCHERE Jens,29,Team Katusha Alpecin,10,5,6:21:09,None,2019
+36,36,27,ŠTYBAR Zdeněk,33,Deceuninck - Quick Step,10,5,6:21:09,None,2019
+37,37,242,DE GENDT Aimé,24,Wanty - Gobert Cycling Team,10,5,6:21:09,None,2019
+38,38,186,BYSTRØM Sven Erik,27,UAE-Team Emirates,10,5,6:21:09,None,2019
+39,39,247,VLIEGEN Loïc,25,Wanty - Gobert Cycling Team,10,5,6:21:09,None,2019
+40,40,2,CALMEJANE Lilian,26,Direct Energie,10,5,6:21:09,None,2019
+41,41,104,MOHORIČ Matej,24,Bahrain Merida,10,5,6:21:09,None,2019
+42,42,151,MOSCON Gianni,24,Team Sky,10,5,6:21:09,None,2019
+43,43,12,ERVITI Imanol,35,Movistar Team,10,5,6:21:09,None,2019
+44,44,115,KÜNG Stefan,25,Groupama - FDJ,10,5,6:21:09,None,2019
+45,45,14,OLIVEIRA Nelson,30,Movistar Team,10,5,6:21:09,None,2019
+46,46,217,WEENING Pieter,38,Roompot - Charles,10,5,6:21:09,None,2019
+47,47,103,KOREN Kristijan,32,Bahrain Merida,10,5,6:21:09,None,2019
+48,48,153,KNEES Christian,38,Team Sky,10,5,6:24:36,None,2019
+49,49,45,OSS Daniel,32,BORA - hansgrohe,10,5,6:24:58,None,2019
+50,50,76,SCULLY Tom,29,EF Education First,10,5,6:24:58,None,2019
+51,51,202,DEVOLDER Stijn,39,Corendon - Circus,5,5,6:24:58,None,2019
+52,52,127,VERMOTE Julien,29,Team Dimension Data,5,5,6:25:02,None,2019
+53,53,143,HALLER Marco,28,Team Katusha Alpecin,5,5,6:25:06,None,2019
+54,54,53,DILLIER Silvan,28,AG2R La Mondiale,5,5,6:25:06,None,2019
+55,55,125,JANSE VAN RENSBURG Reinardt,30,Team Dimension Data,5,5,6:25:06,None,2019
+56,56,215,VAN POPPEL Boy,31,Roompot - Charles,3,5,6:25:06,None,2019
+57,57,177,THEUNS Edward,27,Trek - Segafredo,3,5,6:25:06,None,2019
+58,58,244,PASQUALON Andrea,31,Wanty - Gobert Cycling Team,3,5,6:25:06,None,2019
+59,59,135,VAN DER HOORN Taco,25,Team Jumbo-Visma,3,5,6:25:06,None,2019
+60,60,221,ALLEGAERT Piet,24,Sport Vlaanderen - Baloise,3,5,6:25:06,None,2019
+61,61,64,VAN HOOYDONCK Nathan,23,CCC Team,,5,6:25:06,None,2019
+62,62,134,EENKHOORN Pascal,22,Team Jumbo-Visma,,5,6:25:06,None,2019
+63,63,106,SIEBERG Marcel,36,Bahrain Merida,,5,6:25:06,None,2019
+64,64,116,LE GAC Olivier,25,Groupama - FDJ,,5,6:25:06,None,2019
+65,65,241,BACKAERT Frederik,29,Wanty - Gobert Cycling Team,,5,6:25:06,None,2019
+66,66,62,SCHÄR Michael,32,CCC Team,,5,6:25:06,None,2019
+67,67,222,SPRENGERS Thomas,29,Sport Vlaanderen - Baloise,,5,6:25:06,None,2019
+68,68,15,ROELANDTS Jürgen,33,Movistar Team,,5,6:25:06,None,2019
+69,69,205,VERMEERSCH Gianni,26,Corendon - Circus,,5,6:25:06,None,2019
+70,70,232,DE BACKER Bert,35,Vital Concept - B&B Hotels,,5,6:25:06,None,2019
+71,71,67,WIŚNIOWSKI Łukasz,27,CCC Team,,5,6:25:06,None,2019
+72,72,93,DE VREESE Laurens,30,Astana Pro Team,,5,6:25:06,None,2019
+73,73,65,VAN KEIRSBULCK Guillaume,28,CCC Team,,5,6:25:06,None,2019
+74,74,46,PÖSTLBERGER Lukas,27,BORA - hansgrohe,,5,6:25:06,None,2019
+75,75,87,BAUER Jack,34,Mitchelton-Scott,,5,6:25:06,None,2019
+76,76,156,STANNARD Ian,31,Team Sky,,5,6:25:06,None,2019
+77,77,245,MEURISSE Xandro,27,Wanty - Gobert Cycling Team,,5,6:25:06,None,2019
+78,78,182,GAVIRIA Fernando,24,UAE-Team Emirates,,5,6:25:06,None,2019
+79,79,145,KUZNETSOV Viacheslav,29,Team Katusha Alpecin,,5,6:27:21,None,2019
+80,80,72,BRESCHEL Matti,34,EF Education First,,5,6:27:35,None,2019
+81,81,236,TURGIS Jimmy,27,Vital Concept - B&B Hotels,,5,6:27:35,None,2019
+82,82,144,HOLLENSTEIN Reto,33,Team Katusha Alpecin,,5,6:27:35,None,2019
+83,83,152,DOULL Owain,25,Team Sky,,5,6:27:35,None,2019
+84,84,42,BURGHARDT Marcus,35,BORA - hansgrohe,,5,6:27:35,None,2019
+85,85,96,HOULE Hugo,28,Astana Pro Team,,5,6:27:35,None,2019
+86,86,57,GODON Dorian,22,AG2R La Mondiale,,5,6:27:35,None,2019
+87,87,107,TRATNIK Jan,29,Bahrain Merida,,5,6:27:35,None,2019
+88,88,237,VAN GENECHTEN Jonas,32,Vital Concept - B&B Hotels,,5,6:27:35,None,2019
+89,89,6,PICHOT Alexandre,36,Direct Energie,,5,6:27:35,None,2019
+90,90,17,CASTRILLO Jaime,23,Movistar Team,,5,6:27:35,None,2019
+91,91,207,VERGAERDE Otto,24,Corendon - Circus,,5,6:27:35,None,2019
+92,92,193,LEMOINE Cyril,36,"Cofidis, Solutions Crédits",,5,6:27:35,None,2019
+93,93,216,LEYSEN Senne,23,Roompot - Charles,,5,6:27:35,None,2019
+94,94,95,FOMINYKH Daniil,27,Astana Pro Team,,5,6:27:35,None,2019
+95,95,86,MEZGEC Luka,30,Mitchelton-Scott,,5,6:27:35,None,2019
+96,96,85,JUUL-JENSEN Christopher,29,Mitchelton-Scott,,5,6:27:35,None,2019
+97,97,3,TURGIS Anthony,24,Direct Energie,,5,6:27:35,None,2019
+98,98,154,GANNA Filippo,22,Team Sky,,5,6:27:35,None,2019
+99,99,132,JANSEN Amund Grøndahl,25,Team Jumbo-Visma,,5,6:27:35,None,2019
+100,100,112,DUCHESNE Antoine,27,Groupama - FDJ,,5,6:27:35,None,2019
+101,101,176,DE KORT Koen,36,Trek - Segafredo,,5,6:27:35,None,2019
+102,102,124,VALGREN Michael,27,Team Dimension Data,,5,6:27:35,None,2019
+103,103,137,WYNANTS Maarten,36,Team Jumbo-Visma,,5,6:27:35,None,2019
+104,104,185,MARCATO Marco,35,UAE-Team Emirates,,5,6:27:35,None,2019
+105,105,24,KEISSE Iljo,36,Deceuninck - Quick Step,,5,6:29:03,None,2019
+106,106,194,TOUZÉ Damien,22,"Cofidis, Solutions Crédits",,5,6:29:03,None,2019
+107,107,162,CURVERS Roy,39,Team Sunweb,,5,6:29:03,None,2019
+108,108,97,CORT Magnus,26,Astana Pro Team,,5,6:29:03,None,2019
+109,109,223,DECLERCQ Benjamin,25,Sport Vlaanderen - Baloise,,5,6:29:03,None,2019
+110,110,213,STEELS Stijn,29,Roompot - Charles,,5,6:29:03,None,2019
+111,111,195,VAN LERBERGHE Bert,26,"Cofidis, Solutions Crédits",,5,6:29:03,None,2019
+112,112,166,PEDERSEN Casper,23,Team Sunweb,,5,6:29:03,None,2019
+113,113,25,DECLERCQ Tim,30,Deceuninck - Quick Step,,5,6:29:03,None,2019
+114,114,117,SINKELDAM Ramon,30,Groupama - FDJ,,5,6:29:03,None,2019
+115,115,44,SAGAN Juraj,30,BORA - hansgrohe,,5,6:29:03,None,2019
+116,116,227,WARLOP Jordi,22,Sport Vlaanderen - Baloise,,5,6:29:03,None,2019
+117,117,123,EISEL Bernhard,38,Team Dimension Data,,5,6:29:03,None,2019
+118,118,225,PLANCKAERT Edward,24,Sport Vlaanderen - Baloise,,5,6:29:03,None,2019
+119,119,63,VAN HOECKE Gijs,27,CCC Team,,5,6:29:03,None,2019
+120,120,173,KIRSCH Alex,26,Trek - Segafredo,,5,6:29:03,None,2019
+121,121,184,LAENGEN Vegard Stake,30,UAE-Team Emirates,,5,6:29:03,None,2019
+122,122,52,DENZ Nico,25,AG2R La Mondiale,,5,6:29:03,None,2019
+123,123,13,MAS Lluís,29,Movistar Team,,5,6:29:03,None,2019
+124,124,47,BODNAR Maciej,34,BORA - hansgrohe,,5,6:29:03,None,2019
+125,125,122,BAK Lars Ytting,39,Team Dimension Data,,5,6:29:38,None,2019

@@ -1,0 +1,125 @@
+,rank,prev,standing,bib,rider,age,team,uci,point,time,stage,year
+1,1,2,+0:58,101,BILBAO Pello,31,Bahrain - Victorious,20,30,4:39:42,tour-of-the-alps/2021/stage-4,2021
+2,2,3,+1:06,31,VLASOV Aleksandr,24,Astana - Premier Tech,10,18,4:39:42,tour-of-the-alps/2021/stage-4,2021
+3,3,1,+0:00,51,YATES Simon,28,Team BikeExchange,5,12,4:39:42,tour-of-the-alps/2021/stage-4,2021
+4,4,7,+2:54,151,QUINTANA Nairo,31,Team Arkéa Samsic,,7,4:40:40,tour-of-the-alps/2021/stage-4,2021
+5,5,4,+2:18,132,CEPEDA Jefferson Alexander,22,Androni Giocattoli - Sidermec,,4,4:40:48,tour-of-the-alps/2021/stage-4,2021
+6,6,6,+2:37,62,CARTHY Hugh,26,EF Education - Nippo,,3,4:40:48,tour-of-the-alps/2021/stage-4,2021
+7,7,8,+3:12,63,GUERREIRO Ruben,26,EF Education - Nippo,,2,4:40:58,tour-of-the-alps/2021/stage-4,2021
+8,8,9,+3:12,121,BARDET Romain,30,Team DSM,,1,4:40:58,tour-of-the-alps/2021/stage-4,2021
+9,9,16,+4:19,21,BRAMBILLA Gianluca,33,Trek - Segafredo,,,4:40:58,tour-of-the-alps/2021/stage-4,2021
+10,10,13,+3:59,41,FABBRO Matteo,26,BORA - hansgrohe,,,4:41:04,tour-of-the-alps/2021/stage-4,2021
+11,11,17,+4:25,182,OSORIO Alejandro,22,Caja Rural - Seguros RGA,,,4:41:04,tour-of-the-alps/2021/stage-4,2021
+12,12,18,+5:01,85,POZZOVIVO Domenico,38,Team Qhubeka ASSOS,,,4:41:18,tour-of-the-alps/2021/stage-4,2021
+13,13,10,+3:36,57,SCHULTZ Nick,26,Team BikeExchange,,,4:41:22,tour-of-the-alps/2021/stage-4,2021
+14,14,12,+3:53,112,BOUCHARD Geoffrey,29,AG2R Citroën Team,,,4:41:22,tour-of-the-alps/2021/stage-4,2021
+15,15,5,+2:37,1,SIVAKOV Pavel,23,INEOS Grenadiers,,,4:41:30,tour-of-the-alps/2021/stage-4,2021
+16,16,15,+4:14,3,MARTÍNEZ Daniel Felipe,24,INEOS Grenadiers,,,4:41:34,tour-of-the-alps/2021/stage-4,2021
+17,17,20,+5:56,201,LIPOWITZ Florian,20,Tirol KTM Cycling Team,,,4:41:48,tour-of-the-alps/2021/stage-4,2021
+18,18,11,+3:50,123,HINDLEY Jai,24,Team DSM,,,4:42:01,tour-of-the-alps/2021/stage-4,2021
+19,19,27,+7:08,171,RAVASI Edward,26,EOLO-Kometa,,,4:42:17,tour-of-the-alps/2021/stage-4,2021
+20,20,31,+8:20,71,ARDILA Andrés Camilo,21,UAE-Team Emirates,,,4:42:30,tour-of-the-alps/2021/stage-4,2021
+21,21,32,+9:08,47,ZWIEHOFF Ben,27,BORA - hansgrohe,,,4:42:35,tour-of-the-alps/2021/stage-4,2021
+22,22,19,+5:42,104,PERNSTEINER Hermann,30,Bahrain - Victorious,,,4:42:35,tour-of-the-alps/2021/stage-4,2021
+23,23,14,+4:01,96,MARTIN Dan,34,Israel Start-Up Nation,,,4:42:35,tour-of-the-alps/2021/stage-4,2021
+24,24,21,+6:20,73,DOMBROWSKI Joe,29,UAE-Team Emirates,,,4:42:37,tour-of-the-alps/2021/stage-4,2021
+25,25,33,+9:20,115,HÄNNINEN Jaakko,24,AG2R Citroën Team,,,4:42:47,tour-of-the-alps/2021/stage-4,2021
+26,26,34,+9:27,32,PRONSKIY Vadim,22,Astana - Premier Tech,,,4:42:54,tour-of-the-alps/2021/stage-4,2021
+27,27,23,+6:37,163,CARBONI Giovanni,25,Bardiani-CSF-Faizanè,,,4:42:54,tour-of-the-alps/2021/stage-4,2021
+28,28,60,+20:38,167,ZANA Filippo,22,Bardiani-CSF-Faizanè,,,4:42:54,tour-of-the-alps/2021/stage-4,2021
+29,29,35,+9:28,67,VAN GARDEREN Tejay,32,EF Education - Nippo,,,4:42:55,tour-of-the-alps/2021/stage-4,2021
+30,30,26,+6:59,25,SKJELMOSE JENSEN Mattias,20,Trek - Segafredo,,,4:43:16,tour-of-the-alps/2021/stage-4,2021
+31,31,28,+7:17,176,FETTER Erik,21,EOLO-Kometa,,,4:43:34,tour-of-the-alps/2021/stage-4,2021
+32,32,24,+6:56,22,GHEBREIGZABHIER Amanuel,26,Trek - Segafredo,,,4:43:35,tour-of-the-alps/2021/stage-4,2021
+33,33,29,+7:18,114,GALLOPIN Tony,32,AG2R Citroën Team,,,4:43:35,tour-of-the-alps/2021/stage-4,2021
+34,34,30,+7:22,24,RIES Michel,23,Trek - Segafredo,,,4:43:39,tour-of-the-alps/2021/stage-4,2021
+35,35,41,+11:45,91,CATAFORD Alexander,27,Israel Start-Up Nation,,,4:43:57,tour-of-the-alps/2021/stage-4,2021
+36,36,40,+11:38,16,VALTER Attila,22,Groupama - FDJ,,,4:43:57,tour-of-the-alps/2021/stage-4,2021
+37,37,22,+6:37,7,SOSA Iván Ramiro,23,INEOS Grenadiers,,,4:44:23,tour-of-the-alps/2021/stage-4,2021
+38,38,37,+10:56,2,HENAO Sebastián,27,INEOS Grenadiers,,,4:44:23,tour-of-the-alps/2021/stage-4,2021
+39,39,25,+6:58,23,NIBALI Antonio,28,Trek - Segafredo,,,4:44:23,tour-of-the-alps/2021/stage-4,2021
+40,40,69,+22:05,165,GABBURO Davide,28,Bardiani-CSF-Faizanè,,,4:44:39,tour-of-the-alps/2021/stage-4,2021
+41,41,38,+11:21,133,CHIRICO Luca,28,Androni Giocattoli - Sidermec,,,4:44:48,tour-of-the-alps/2021/stage-4,2021
+42,42,89,+36:18,122,COMBAUD Romain,30,Team DSM,,,4:44:57,tour-of-the-alps/2021/stage-4,2021
+43,43,51,+15:23,135,RAVANELLI Simone,25,Androni Giocattoli - Sidermec,,,4:44:57,tour-of-the-alps/2021/stage-4,2021
+44,44,46,+13:22,83,FRANKINY Kilian,27,Team Qhubeka ASSOS,,,4:44:57,tour-of-the-alps/2021/stage-4,2021
+45,45,42,+11:55,97,NIV Guy,27,Israel Start-Up Nation,,,4:44:57,tour-of-the-alps/2021/stage-4,2021
+46,46,39,+11:30,113,WARBASSE Larry,30,AG2R Citroën Team,,,4:44:57,tour-of-the-alps/2021/stage-4,2021
+47,47,45,+13:22,145,KOCHETKOV Pavel,35,Gazprom - RusVelo,,,4:44:57,tour-of-the-alps/2021/stage-4,2021
+48,48,48,+14:17,205,STEINHAUSER Georg,19,Tirol KTM Cycling Team,,,4:45:00,tour-of-the-alps/2021/stage-4,2021
+49,49,61,+20:39,36,GREGAARD Jonas,24,Astana - Premier Tech,,,4:45:00,tour-of-the-alps/2021/stage-4,2021
+50,50,57,+19:31,183,MARTÍN Sergio Roman,24,Caja Rural - Seguros RGA,,,4:45:00,tour-of-the-alps/2021/stage-4,2021
+51,51,44,+12:41,154,ANACONA Winner,32,Team Arkéa Samsic,,,4:45:00,tour-of-the-alps/2021/stage-4,2021
+52,52,83,+33:22,131,BISOLTI Alessandro,36,Androni Giocattoli - Sidermec,,,4:45:10,tour-of-the-alps/2021/stage-4,2021
+53,53,56,+19:13,77,MUÑOZ Cristian Camilo,25,UAE-Team Emirates,,,4:45:22,tour-of-the-alps/2021/stage-4,2021
+54,54,77,+29:57,136,UMBA Santiago,18,Androni Giocattoli - Sidermec,,,4:45:42,tour-of-the-alps/2021/stage-4,2021
+55,55,82,+32:26,162,CAÑAVERAL Johnatan,24,Bardiani-CSF-Faizanè,,,4:45:42,tour-of-the-alps/2021/stage-4,2021
+56,56,55,+19:03,17,VAN DEN BERG Lars,22,Groupama - FDJ,,,4:46:20,tour-of-the-alps/2021/stage-4,2021
+57,57,49,+14:56,43,PALZER Anton,28,BORA - hansgrohe,,,4:46:50,tour-of-the-alps/2021/stage-4,2021
+58,58,36,+10:07,4,MOSCON Gianni,27,INEOS Grenadiers,,,4:47:33,tour-of-the-alps/2021/stage-4,2021
+59,59,47,+13:32,111,BIDARD François,29,AG2R Citroën Team,,,4:47:47,tour-of-the-alps/2021/stage-4,2021
+60,60,68,+21:38,14,GUGLIELMI Simon,23,Groupama - FDJ,,,4:47:47,tour-of-the-alps/2021/stage-4,2021
+61,61,70,+22:26,166,SAVINI Daniel,23,Bardiani-CSF-Faizanè,,,4:48:53,tour-of-the-alps/2021/stage-4,2021
+62,62,59,+20:30,164,COVILI Luca,24,Bardiani-CSF-Faizanè,,,4:48:56,tour-of-the-alps/2021/stage-4,2021
+63,63,58,+20:06,174,CHRISTIAN Mark,30,EOLO-Kometa,,,4:49:05,tour-of-the-alps/2021/stage-4,2021
+64,64,72,+23:01,11,PINOT Thibaut,30,Groupama - FDJ,,,4:49:10,tour-of-the-alps/2021/stage-4,2021
+65,65,43,+12:05,34,SÁNCHEZ Luis León,37,Astana - Premier Tech,,,4:49:10,tour-of-the-alps/2021/stage-4,2021
+66,66,52,+15:43,116,PRODHOMME Nicolas,24,AG2R Citroën Team,,,4:49:10,tour-of-the-alps/2021/stage-4,2021
+67,67,84,+33:33,125,STORER Michael,24,Team DSM,,,4:49:13,tour-of-the-alps/2021/stage-4,2021
+68,68,63,+20:47,155,DELAPLACE Anthony,31,Team Arkéa Samsic,,,4:49:13,tour-of-the-alps/2021/stage-4,2021
+69,69,90,+36:35,81,BROWN Connor,22,Team Qhubeka ASSOS,,,4:49:13,tour-of-the-alps/2021/stage-4,2021
+70,70,99,+47:15,143,NEKRASOV Denis,24,Gazprom - RusVelo,,,4:49:13,tour-of-the-alps/2021/stage-4,2021
+71,71,62,+20:47,137,TESFATSION Natnael,21,Androni Giocattoli - Sidermec,,,4:49:13,tour-of-the-alps/2021/stage-4,2021
+72,72,67,+21:32,181,AMEZQUETA Julen,27,Caja Rural - Seguros RGA,,,4:51:06,tour-of-the-alps/2021/stage-4,2021
+73,73,86,+33:47,152,QUINTANA Dayer,28,Team Arkéa Samsic,,,4:52:35,tour-of-the-alps/2021/stage-4,2021
+74,74,79,+30:56,37,TEJADA Harold,23,Astana - Premier Tech,,,4:52:35,tour-of-the-alps/2021/stage-4,2021
+75,75,102,+49:09,147,KUZMIN Anton,24,Gazprom - RusVelo,,,4:52:35,tour-of-the-alps/2021/stage-4,2021
+76,76,66,+21:31,141,ZAKARIN Ilnur,31,Gazprom - RusVelo,,,4:52:35,tour-of-the-alps/2021/stage-4,2021
+77,77,53,+15:56,55,NIEVE Mikel,36,Team BikeExchange,,,4:52:35,tour-of-the-alps/2021/stage-4,2021
+78,78,95,+42:02,153,BOUET Maxime,34,Team Arkéa Samsic,,,4:52:35,tour-of-the-alps/2021/stage-4,2021
+79,79,65,+21:00,142,SCARONI Cristian,23,Gazprom - RusVelo,,,4:52:35,tour-of-the-alps/2021/stage-4,2021
+80,80,85,+33:33,64,MORTON Lachlan,29,EF Education - Nippo,,,4:52:35,tour-of-the-alps/2021/stage-4,2021
+81,81,50,+15:23,42,GROßSCHARTNER Felix,27,BORA - hansgrohe,,,4:52:35,tour-of-the-alps/2021/stage-4,2021
+82,82,94,+41:36,93,FROOME Chris,35,Israel Start-Up Nation,,,4:54:14,tour-of-the-alps/2021/stage-4,2021
+83,83,54,+17:57,124,ROCHE Nicolas,36,Team DSM,,,4:54:14,tour-of-the-alps/2021/stage-4,2021
+84,84,73,+25:48,94,GOLDSTEIN Omer,24,Israel Start-Up Nation,,,4:54:14,tour-of-the-alps/2021/stage-4,2021
+85,85,71,+22:39,106,VALLS Rafael,33,Bahrain - Victorious,,,4:54:14,tour-of-the-alps/2021/stage-4,2021
+86,86,98,+44:39,82,DLAMINI Nic,25,Team Qhubeka ASSOS,,,4:54:14,tour-of-the-alps/2021/stage-4,2021
+87,87,81,+32:10,102,ARASHIRO Yukiya,36,Bahrain - Victorious,,,4:54:14,tour-of-the-alps/2021/stage-4,2021
+88,88,75,+29:05,161,BATTAGLIN Enrico,31,Bardiani-CSF-Faizanè,,,4:54:14,tour-of-the-alps/2021/stage-4,2021
+89,89,64,+20:47,53,KANGERT Tanel,34,Team BikeExchange,,,4:54:14,tour-of-the-alps/2021/stage-4,2021
+90,90,74,+27:25,92,DE MARCHI Alessandro,34,Israel Start-Up Nation,,,4:54:16,tour-of-the-alps/2021/stage-4,2021
+91,91,76,+29:46,33,FELLINE Fabio,31,Astana - Premier Tech,,,4:55:55,tour-of-the-alps/2021/stage-4,2021
+92,92,96,+43:54,5,PUCCIO Salvatore,31,INEOS Grenadiers,,,4:55:55,tour-of-the-alps/2021/stage-4,2021
+93,93,78,+30:04,35,SOBRERO Matteo,23,Astana - Premier Tech,,,4:55:55,tour-of-the-alps/2021/stage-4,2021
+94,94,87,+36:07,74,RIABUSHENKO Alexandr,25,UAE-Team Emirates,,,4:55:55,tour-of-the-alps/2021/stage-4,2021
+95,95,80,+31:11,105,PADUN Mark,24,Bahrain - Victorious,,,4:55:55,tour-of-the-alps/2021/stage-4,2021
+96,96,92,+38:04,185,BARRENETXEA Jon,21,Caja Rural - Seguros RGA,,,4:55:55,tour-of-the-alps/2021/stage-4,2021
+97,97,93,+39:11,175,DINA Márton,25,EOLO-Kometa,,,4:55:55,tour-of-the-alps/2021/stage-4,2021
+98,98,103,+52:05,46,WANDAHL Frederik,19,BORA - hansgrohe,,,4:55:55,tour-of-the-alps/2021/stage-4,2021
+99,99,100,+48:52,75,MARCATO Marco,37,UAE-Team Emirates,,,4:56:15,tour-of-the-alps/2021/stage-4,2021
+100,100,97,+44:06,54,MEYER Cameron,33,Team BikeExchange,,,4:56:46,tour-of-the-alps/2021/stage-4,2021
+101,101,88,+36:13,52,COLLEONI Kevin,21,Team BikeExchange,,,4:56:46,tour-of-the-alps/2021/stage-4,2021
+102,102,91,+37:26,56,SCOTSON Callum,24,Team BikeExchange,,,4:56:46,tour-of-the-alps/2021/stage-4,2021
+103,103,107,+56:14,44,PÖSTLBERGER Lukas,29,BORA - hansgrohe,,,4:57:41,tour-of-the-alps/2021/stage-4,2021
+104,104,109,+56:45,156,HARDY Romain,32,Team Arkéa Samsic,,,4:57:41,tour-of-the-alps/2021/stage-4,2021
+105,105,104,+55:20,103,NOVAK Domen,25,Bahrain - Victorious,,,4:58:11,tour-of-the-alps/2021/stage-4,2021
+106,106,112,+58:58,13,DUCHESNE Antoine,29,Groupama - FDJ,,,5:01:49,tour-of-the-alps/2021/stage-4,2021
+107,107,114,+1:02:45,61,BARTA Will,25,EF Education - Nippo,,,5:03:48,tour-of-the-alps/2021/stage-4,2021
+108,108,118,+1:06:53,127,HEINSCHKE Leon,21,Team DSM,,,5:04:02,tour-of-the-alps/2021/stage-4,2021
+109,109,110,+56:50,202,ENGELHARDT Felix,20,Tirol KTM Cycling Team,,,5:04:02,tour-of-the-alps/2021/stage-4,2021
+110,110,117,+1:06:06,87,JANSE VAN RENSBURG Reinardt,32,Team Qhubeka ASSOS,,,5:05:34,tour-of-the-alps/2021/stage-4,2021
+111,111,111,+58:11,117,VENDRAME Andrea,26,AG2R Citroën Team,,,5:05:38,tour-of-the-alps/2021/stage-4,2021
+112,112,106,+56:13,12,LUDVIGSSON Tobias,30,Groupama - FDJ,,,5:05:48,tour-of-the-alps/2021/stage-4,2021
+113,113,101,+48:56,15,THOMPSON Reuben,20,Groupama - FDJ,,,5:06:05,tour-of-the-alps/2021/stage-4,2021
+114,114,120,+1:11:29,66,VAN DEN BERG Julius,24,EF Education - Nippo,,,5:08:38,tour-of-the-alps/2021/stage-4,2021
+115,115,105,+55:25,173,BAIS Davide,23,EOLO-Kometa,,,5:10:13,tour-of-the-alps/2021/stage-4,2021
+116,116,115,+1:02:46,177,FANCELLU Alessandro,20,EOLO-Kometa,,,5:10:13,tour-of-the-alps/2021/stage-4,2021
+117,117,121,+1:13:31,146,VACEK Mathias,18,Gazprom - RusVelo,,,5:10:16,tour-of-the-alps/2021/stage-4,2021
+118,118,119,+1:10:29,207,ZANGERLE Emanuel,20,Tirol KTM Cycling Team,,,5:10:16,tour-of-the-alps/2021/stage-4,2021
+119,119,124,+1:18:24,206,PEZZO ROSOLA Kevin,18,Tirol KTM Cycling Team,,,5:10:16,tour-of-the-alps/2021/stage-4,2021
+120,120,113,+1:00:41,144,CHERKASOV Nikolay,24,Gazprom - RusVelo,,,5:10:16,tour-of-the-alps/2021/stage-4,2021
+121,121,116,+1:06:00,6,BASSO Leonardo,27,INEOS Grenadiers,,,5:10:16,tour-of-the-alps/2021/stage-4,2021
+122,122,123,+1:16:01,204,GOVEKAR Matevž,21,Tirol KTM Cycling Team,,,5:10:16,tour-of-the-alps/2021/stage-4,2021
+123,123,122,+1:16:01,45,SELIG Rüdiger,32,BORA - hansgrohe,,,5:10:16,tour-of-the-alps/2021/stage-4,2021
+124,124,108,+56:20,126,VANDENABEELE Henri,21,Team DSM,,,5:10:16,tour-of-the-alps/2021/stage-4,2021

@@ -1,0 +1,95 @@
+,rank,bib,rider,age,team,uci,point,time,stage,year
+1,1,0,CANCELLARA Fabian,29,Saxo Bank ,100,275,6:25:56,None,2010
+2,2,0,BOONEN Tom,29,Quickstep - Innergetic,80,200,6:27:11,None,2010
+3,3,0,GILBERT Philippe,27,Omega Pharma-Lotto ,70,150,6:28:07,None,2010
+4,4,0,LEUKEMANS Björn,32,Vacansoleil,60,120,6:28:11,None,2010
+5,5,0,FARRAR Tyler,25,Team Garmin - Transitions,50,100,6:28:31,None,2010
+6,6,0,HINCAPIE George,36,BMC Racing Team,40,90,6:28:31,None,2010
+7,7,0,HAMMOND Roger,36,Cervelo Test Team,30,80,6:28:31,None,2010
+8,8,0,IGLINSKIY Maxim,28,Astana,20,70,6:28:31,None,2010
+9,9,0,HONDO Danilo,36,Lampre - Farnese Vini,10,60,6:28:31,None,2010
+10,10,0,BONNET William,27,Bbox Bouygues Telecom,4,50,6:28:31,None,2010
+11,11,0,HOOGERLAND Johnny,26,Vacansoleil,,46,6:28:31,None,2010
+12,12,0,VANDENBERGH Stijn,25,Team Katusha ,,42,6:28:31,None,2010
+13,13,0,HAYMAN Mathew,31,Sky Procycling,,38,6:28:31,None,2010
+14,14,0,MONDORY Lloyd,27,AG2R La Mondiale,,34,6:28:31,None,2010
+15,15,0,BRESCHEL Matti,25,Saxo Bank ,,30,6:28:31,None,2010
+16,16,0,EISEL Bernhard,29,Team HTC - Columbia ,,28,6:28:31,None,2010
+17,17,0,CHAINEL Steve,26,Bbox Bouygues Telecom,,26,6:28:31,None,2010
+18,18,0,GUESDON Frédéric,38,Francaise des Jeux,,24,6:28:31,None,2010
+19,19,0,WYNANTS Maarten,27,Quickstep - Innergetic,,22,6:28:31,None,2010
+20,20,0,BURGHARDT Marcus,26,BMC Racing Team,,20,6:28:31,None,2010
+21,21,0,SENTJENS Roy,29,Milram,,19,6:28:31,None,2010
+22,22,0,LANGEVELD Sebastian,25,Rabobank ProTeam,,18,6:28:31,None,2010
+23,23,0,SIEBERG Marcel,27,Team HTC - Columbia ,,17,6:28:31,None,2010
+24,24,0,CHAVANEL Sylvain,30,Quickstep - Innergetic,,16,6:28:31,None,2010
+25,25,0,DEVOLDER Stijn,30,Quickstep - Innergetic,,15,6:28:31,None,2010
+26,26,0,HINAULT Sébastien,36,AG2R La Mondiale,,14,6:28:31,None,2010
+27,27,0,ARMSTRONG Lance,38,RadioShack,,13,6:28:31,None,2010
+28,28,0,OSS Daniel,23,Liquigas - Doimo,,12,6:28:31,None,2010
+29,29,0,HOSTE Leif,32,Omega Pharma-Lotto ,,11,6:28:31,None,2010
+30,30,0,ŠPILAK Simon,23,Lampre - Farnese Vini,,10,6:28:31,None,2010
+31,31,0,IVANOV Sergei,35,Team Katusha ,,9,6:28:31,None,2010
+32,32,0,MILLAR David,33,Team Garmin - Transitions,,8,6:28:31,None,2010
+33,33,0,THOMAS Geraint,23,Sky Procycling,,7,6:28:31,None,2010
+34,34,0,FLECHA Juan Antonio,32,Sky Procycling,,6,6:28:31,None,2010
+35,35,0,BALLAN Alessandro,30,BMC Racing Team,,5,6:28:44,None,2010
+36,36,0,DE KORT Koen,27,Skil - Shimano,,5,6:31:09,None,2010
+37,37,0,ROJAS José Joaquín,24,Caisse d'Epargne,,5,6:31:09,None,2010
+38,38,0,MURAVYEV Dmitriy,30,RadioShack,,5,6:31:09,None,2010
+39,39,0,VAN AVERMAET Greg,24,Omega Pharma-Lotto ,,5,6:31:09,None,2010
+40,40,0,SCHEIRLINCKX Bert,35,Landbouwkrediet,,5,6:31:09,None,2010
+41,41,0,SCHEIRLINCKX Staf,31,Omega Pharma-Lotto ,,5,6:31:09,None,2010
+42,42,0,ROLLIN Dominique,27,Cervelo Test Team,,5,6:31:09,None,2010
+43,43,0,SABATINI Fabio,25,Liquigas - Doimo,,5,6:31:09,None,2010
+44,44,0,PICHOT Alexandre,27,Bbox Bouygues Telecom,,5,6:31:09,None,2010
+45,45,0,TERPSTRA Niki,25,Milram,,5,6:31:09,None,2010
+46,46,0,RAST Grégory,30,RadioShack,,5,6:31:09,None,2010
+47,47,0,WILLEMS Frederik,30,Liquigas - Doimo,,5,6:31:09,None,2010
+48,48,0,QUINZIATO Manuel,30,Liquigas - Doimo,,5,6:31:09,None,2010
+49,49,0,TJALLINGII Maarten,32,Rabobank ProTeam,,5,6:31:09,None,2010
+50,50,0,IGNATIEV Mikhail,24,Team Katusha ,,5,6:31:09,None,2010
+51,51,0,LADAGNOUS Matthieu,25,Francaise des Jeux,,5,6:31:09,None,2010
+53,52,0,ARVESEN Kurt-Asle,35,Sky Procycling,,5,6:31:09,None,2010
+54,53,0,KROON Karsten,34,BMC Racing Team,,5,6:31:09,None,2010
+55,54,0,VANSUMMEREN Johan,29,Team Garmin - Transitions,,5,6:31:09,None,2010
+56,55,0,LLOYD Daniel,29,Cervelo Test Team,,5,6:31:09,None,2010
+57,56,0,HUSHOVD Thor,32,Cervelo Test Team,,5,6:31:09,None,2010
+58,57,0,VOECKLER Thomas,30,Bbox Bouygues Telecom,,5,6:32:54,None,2010
+59,58,0,BARBÉ Koen,29,Landbouwkrediet,,5,6:36:29,None,2010
+60,59,0,TRAKSEL Bobbie,28,Vacansoleil,,5,6:36:29,None,2010
+61,60,0,SCHÄR Michael,23,BMC Racing Team,,5,6:36:29,None,2010
+62,61,0,VANMARCKE Sep,21,Topsport Vlaanderen - Mercator,,5,6:36:29,None,2010
+63,62,0,TOSATTO Matteo,35,Quickstep - Innergetic,,5,6:39:16,None,2010
+64,63,0,SELVAGGI Mirko,25,Astana,,5,6:39:16,None,2010
+65,64,0,ARAMENDIA Javier,23,Euskaltel - Euskadi,,5,6:39:16,None,2010
+66,65,0,DAVIS Allan Howard,29,Astana,,5,6:39:16,None,2010
+67,66,0,GRIVKO Andrey,26,Astana,,5,6:39:16,None,2010
+68,67,0,REYNÉS Vicente,28,Team HTC - Columbia ,,5,6:39:16,None,2010
+69,68,0,GOESINNEN Floris,26,Skil - Shimano,,5,6:39:16,None,2010
+70,69,0,MARCATO Marco,26,Vacansoleil,,5,6:39:16,None,2010
+71,70,0,DA DALTO Mauro,28,Lampre - Farnese Vini,,5,6:39:16,None,2010
+72,71,0,AMORISON Frédéric,32,Landbouwkrediet,,5,6:39:16,None,2010
+73,72,0,DALL'ANTONIA Tiziano,26,Liquigas - Doimo,,5,6:39:16,None,2010
+74,73,0,BAK Lars Ytting,30,Team HTC - Columbia ,,5,6:39:16,None,2010
+75,74,0,ROULSTON Hayden,29,Team HTC - Columbia ,,5,6:39:16,None,2010
+76,75,0,OFFREDO Yoann,23,Francaise des Jeux,,5,6:39:16,None,2010
+77,76,0,BOOM Lars,24,Rabobank ProTeam,,5,6:39:16,None,2010
+78,77,0,BARRY Michael,34,Sky Procycling,,5,6:39:16,None,2010
+79,78,0,TURGOT Sébastien,25,Bbox Bouygues Telecom,,5,6:39:16,None,2010
+80,79,0,DE WEERT Kevin,27,Quickstep - Innergetic,,5,6:39:16,None,2010
+81,80,0,LEQUATRE Geoffroy,28,RadioShack,,5,6:39:16,None,2010
+82,81,0,VEELERS Tom,25,Skil - Shimano,,5,6:39:16,None,2010
+83,82,0,CURVERS Roy,30,Skil - Shimano,,5,6:39:16,None,2010
+84,83,0,STANNARD Ian,22,Sky Procycling,,5,6:39:16,None,2010
+85,84,0,LARSSON Gustav Erik,29,Saxo Bank ,,5,6:39:16,None,2010
+86,85,0,POSTHUMA Joost,29,Rabobank ProTeam,,5,6:39:16,None,2010
+87,86,0,ROELANDTS Jürgen,24,Omega Pharma-Lotto ,,5,6:39:16,None,2010
+88,87,0,TRUSOV Nikolay,24,Team Katusha ,,5,6:39:16,None,2010
+89,88,0,SUTTON Chris,25,Sky Procycling,,5,6:39:16,None,2010
+90,89,0,MAASKANT Martijn,26,Team Garmin - Transitions,,5,6:39:16,None,2010
+91,90,0,GOSS Matthew,23,Team HTC - Columbia ,,5,6:39:16,None,2010
+92,91,0,KLOSTERGAARD Kasper,26,Saxo Bank ,,5,6:39:16,None,2010
+93,92,0,WESTRA Lieuwe,27,Vacansoleil,,5,6:39:16,None,2010
+94,93,0,HØJ Frank,37,Saxo Bank ,,5,6:39:16,None,2010
+95,94,0,VAN LEIJEN Joost,25,Vacansoleil,,5,6:39:16,None,2010

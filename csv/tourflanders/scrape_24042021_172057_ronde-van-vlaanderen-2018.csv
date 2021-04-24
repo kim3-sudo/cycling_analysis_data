@@ -1,0 +1,105 @@
+,rank,bib,rider,age,team,uci,point,time,stage,year
+1,1,7,TERPSTRA Niki,33,Quick-Step Floors,500,275,6:21:25,None,2018
+2,2,165,PEDERSEN Mads,22,Trek - Segafredo,400,200,6:21:37,None,2018
+3,3,1,GILBERT Philippe,35,Quick-Step Floors,325,150,6:21:42,None,2018
+4,4,77,VALGREN Michael,26,Astana Pro Team,275,120,6:21:45,None,2018
+5,5,31,VAN AVERMAET Greg,32,BMC Racing Team,225,100,6:21:50,None,2018
+6,6,11,SAGAN Peter,28,BORA - hansgrohe,175,90,6:21:50,None,2018
+7,7,161,STUYVEN Jasper,25,Trek - Segafredo,150,80,6:21:50,None,2018
+8,8,41,BENOOT Tiesj,24,Lotto Soudal,125,70,6:21:50,None,2018
+9,9,191,VAN AERT Wout,23,Vérandas Willems-Crelan ,100,60,6:21:50,None,2018
+10,10,4,ŠTYBAR Zdeněk,32,Quick-Step Floors,85,50,6:21:50,None,2018
+11,11,21,NAESEN Oliver,27,AG2R La Mondiale,70,46,6:21:50,None,2018
+12,12,157,VAN BAARLE Dylan,25,Team Sky,60,42,6:21:50,None,2018
+13,13,51,VANMARCKE Sep,29,Team EF Education First-Drapac p/b Cannondale,50,38,6:21:50,None,2018
+14,14,143,ROOSEN Timo,25,Team LottoNL-Jumbo,40,34,6:22:34,None,2018
+15,15,91,DÉMARE Arnaud,26,Groupama - FDJ,35,30,6:22:38,None,2018
+16,16,171,KRISTOFF Alexander,30,UAE-Team Emirates,30,28,6:22:38,None,2018
+17,17,136,POLITT Nils,24,Team Katusha Alpecin,30,26,6:22:38,None,2018
+18,18,67,TEUNISSEN Mike,25,Team Sunweb,30,24,6:22:38,None,2018
+19,19,122,BOASSON HAGEN Edvald,30,Team Dimension Data,30,22,6:22:38,None,2018
+20,20,76,CORT Magnus,25,Astana Pro Team,30,20,6:22:38,None,2018
+21,21,154,MOSCON Gianni,23,Team Sky,20,19,6:22:38,None,2018
+22,22,53,LANGEVELD Sebastian,33,Team EF Education First-Drapac p/b Cannondale,20,18,6:22:40,None,2018
+23,23,83,COLBRELLI Sonny,27,Bahrain Merida Pro Cycling Team,20,17,6:22:40,None,2018
+24,24,81,NIBALI Vincenzo,33,Bahrain Merida Pro Cycling Team,20,16,6:22:43,None,2018
+25,25,85,HAUSSLER Heinrich,34,Bahrain Merida Pro Cycling Team,20,15,6:22:49,None,2018
+26,26,13,OSS Daniel,31,BORA - hansgrohe,20,14,6:24:41,None,2018
+27,27,35,ROELANDTS Jürgen,32,BMC Racing Team,20,13,6:24:41,None,2018
+28,28,151,KWIATKOWSKI Michał,27,Team Sky,20,12,6:24:41,None,2018
+29,29,2,LAMPAERT Yves,26,Quick-Step Floors,20,11,6:24:41,None,2018
+30,30,202,DEVRIENDT Tom,26,Wanty - Groupe Gobert,20,10,6:25:05,None,2018
+31,31,33,DRUCKER Jempy,31,BMC Racing Team,10,9,6:25:05,None,2018
+32,32,162,DEGENKOLB John,29,Trek - Segafredo,10,8,6:25:05,None,2018
+33,33,132,KUZNETSOV Viacheslav,28,Team Katusha Alpecin,10,7,6:25:05,None,2018
+34,34,71,DE VREESE Laurens,29,Astana Pro Team,10,6,6:25:05,None,2018
+35,35,243,TURGIS Jimmy,26,"Cofidis, Solutions Crédits",10,5,6:25:05,None,2018
+36,36,22,VANDENBERGH Stijn,33,AG2R La Mondiale,10,5,6:25:05,None,2018
+37,37,84,GARCÍA CORTINA Iván,22,Bahrain Merida Pro Cycling Team,10,5,6:25:05,None,2018
+38,38,201,BACKAERT Frederik,28,Wanty - Groupe Gobert,10,5,6:25:05,None,2018
+39,39,166,RAST Grégory,38,Trek - Segafredo,10,5,6:25:05,None,2018
+40,40,172,BYSTRØM Sven Erik,26,UAE-Team Emirates,10,5,6:25:05,None,2018
+41,41,121,VERMOTE Julien,28,Team Dimension Data,10,5,6:25:05,None,2018
+42,42,163,DE KORT Koen,35,Trek - Segafredo,10,5,6:25:05,None,2018
+43,43,141,JANSEN Amund Grøndahl,24,Team LottoNL-Jumbo,10,5,6:25:09,None,2018
+44,44,5,SÉNÉCHAL Florian,24,Quick-Step Floors,10,5,6:25:12,None,2018
+45,45,107,TRENTIN Matteo,28,Mitchelton-Scott,10,5,6:25:35,None,2018
+46,46,86,KOREN Kristijan,31,Bahrain Merida Pro Cycling Team,10,5,6:25:35,None,2018
+47,47,182,ALLEGAERT Piet,23,Sport Vlaanderen - Baloise,10,5,6:25:35,None,2018
+48,48,92,CIMOLAI Davide,28,Groupama - FDJ,10,5,6:25:35,None,2018
+49,49,175,MARCATO Marco,34,UAE-Team Emirates,10,5,6:25:35,None,2018
+50,50,54,MODOLO Sacha,30,Team EF Education First-Drapac p/b Cannondale,10,5,6:25:35,None,2018
+51,51,12,BURGHARDT Marcus,34,BORA - hansgrohe,5,5,6:25:35,None,2018
+52,52,72,GATTO Oscar,33,Astana Pro Team,5,5,6:25:35,None,2018
+53,53,62,KRAGH ANDERSEN Søren,23,Team Sunweb,5,5,6:27:14,None,2018
+54,54,147,WYNANTS Maarten,35,Team LottoNL-Jumbo,5,5,6:28:59,None,2018
+55,55,34,KÜNG Stefan,24,BMC Racing Team,5,5,6:28:59,None,2018
+56,56,145,VAN EMDEN Jos,33,Team LottoNL-Jumbo,3,5,6:29:43,None,2018
+57,57,45,DE BUYST Jasper,24,Lotto Soudal,3,5,6:29:43,None,2018
+58,58,46,SIEBERG Marcel,35,Lotto Soudal,3,5,6:29:43,None,2018
+59,59,73,HOULE Hugo,27,Astana Pro Team,3,5,6:29:43,None,2018
+60,60,114,ERVITI Imanol,34,Movistar Team,3,5,6:29:43,None,2018
+61,61,44,DEBUSSCHERE Jens,28,Lotto Soudal,,5,6:29:43,None,2018
+62,62,116,OLIVEIRA Nelson,29,Movistar Team,,5,6:29:43,None,2018
+63,63,131,MARTIN Tony,32,Team Katusha Alpecin,,5,6:29:43,None,2018
+64,64,103,DURBRIDGE Luke,26,Mitchelton-Scott,,5,6:29:43,None,2018
+65,65,112,BARBERO Carlos,26,Movistar Team,,5,6:30:39,None,2018
+66,66,26,DUVAL Julien,27,AG2R La Mondiale,,5,6:30:39,None,2018
+67,67,25,DENZ Nico,24,AG2R La Mondiale,,5,6:30:39,None,2018
+68,68,205,SMITH Dion,25,Wanty - Groupe Gobert,,5,6:30:39,None,2018
+69,69,214,KIRSCH Alex,25,WB Aqua Protect Veranclassic ,,5,6:30:39,None,2018
+70,70,196,DUIJN Huub,33,Vérandas Willems-Crelan ,,5,6:30:39,None,2018
+71,71,236,MÜLLER Patrick,21,Vital Concept Cycling Club,,5,6:30:39,None,2018
+72,72,223,LIGTHART Pim,29,Roompot - Nederlandse Loterij,,5,6:30:39,None,2018
+73,73,152,GOŁAŚ Michał,33,Team Sky,,5,6:30:39,None,2018
+74,74,43,BAK Lars Ytting,38,Lotto Soudal,,5,6:30:39,None,2018
+75,75,216,SPENGLER Lukas,23,WB Aqua Protect Veranclassic ,,5,6:30:39,None,2018
+76,76,3,KEISSE Iljo,35,Quick-Step Floors,,5,6:30:39,None,2018
+77,77,65,HOFSTEDE Lennard,23,Team Sunweb,,5,6:30:39,None,2018
+78,78,96,LE GAC Olivier,24,Groupama - FDJ,,5,6:30:39,None,2018
+79,79,95,KONOVALOVAS Ignatas,32,Groupama - FDJ,,5,6:30:39,None,2018
+80,80,56,SCULLY Tom,28,Team EF Education First-Drapac p/b Cannondale,,5,6:30:39,None,2018
+81,81,177,TROIA Oliviero,23,UAE-Team Emirates,,5,6:30:39,None,2018
+82,82,47,WALLAYS Jelle,28,Lotto Soudal,,5,6:30:39,None,2018
+83,83,101,HAYMAN Mathew,39,Mitchelton-Scott,,5,6:30:39,None,2018
+84,84,106,MEZGEC Luka,29,Mitchelton-Scott,,5,6:30:39,None,2018
+85,85,87,PIBERNIK Luka,24,Bahrain Merida Pro Cycling Team,,5,6:30:39,None,2018
+86,86,246,VAN LERBERGHE Bert,25,"Cofidis, Solutions Crédits",,5,6:30:39,None,2018
+87,87,192,DE BIE Sean,26,Vérandas Willems-Crelan ,,5,6:34:37,None,2018
+88,88,183,CAPIOT Amaury,24,Sport Vlaanderen - Baloise,,5,6:34:37,None,2018
+89,89,16,PFINGSTEN Christoph,30,BORA - hansgrohe,,5,6:35:56,None,2018
+90,90,215,PEYSKENS Dimitri,26,WB Aqua Protect Veranclassic ,,5,6:35:56,None,2018
+91,91,185,DECLERCQ Benjamin,24,Sport Vlaanderen - Baloise,,5,6:35:56,None,2018
+92,92,15,SAGAN Juraj,29,BORA - hansgrohe,,5,6:35:56,None,2018
+93,93,164,MULLEN Ryan,23,Trek - Segafredo,,5,6:35:56,None,2018
+94,94,229,VAN SCHIP Jan-Willem,23,Roompot - Nederlandse Loterij,,5,6:35:56,None,2018
+95,95,127,VENTER Jaco,31,Team Dimension Data,,5,6:35:56,None,2018
+96,96,123,DOUGALL Nic,25,Team Dimension Data,,5,6:35:56,None,2018
+97,97,97,SINKELDAM Ramon,29,Groupama - FDJ,,5,6:35:56,None,2018
+98,98,52,BRESCHEL Matti,33,Team EF Education First-Drapac p/b Cannondale,,5,6:35:56,None,2018
+99,99,104,EDMONDSON Alex,24,Mitchelton-Scott,,5,6:35:56,None,2018
+100,100,55,PHINNEY Taylor,27,Team EF Education First-Drapac p/b Cannondale,,5,6:35:56,None,2018
+101,101,135,PLANCKAERT Baptiste,29,Team Katusha Alpecin,,5,6:35:56,None,2018
+102,102,212,JULES Justin,31,WB Aqua Protect Veranclassic ,,5,6:35:56,None,2018
+103,103,244,LEMOINE Cyril,35,"Cofidis, Solutions Crédits",,5,6:35:56,None,2018
+104,104,193,STEELS Stijn,28,Vérandas Willems-Crelan ,,5,6:35:56,None,2018

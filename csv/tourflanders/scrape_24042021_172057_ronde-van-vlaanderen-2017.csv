@@ -1,0 +1,122 @@
+,rank,bib,rider,age,team,uci,point,time,stage,year
+1,1,12,GILBERT Philippe,34,Quick-Step Floors,500,275,6:23:45,None,2017
+2,2,31,VAN AVERMAET Greg,31,BMC Racing Team,400,200,6:24:14,None,2017
+3,3,17,TERPSTRA Niki,32,Quick-Step Floors,325,150,6:24:14,None,2017
+4,4,48,VAN BAARLE Dylan,24,Cannondale-Drapac Pro Cycling Team,275,120,6:24:14,None,2017
+5,5,81,KRISTOFF Alexander,29,Team Katusha Alpecin,225,100,6:24:38,None,2017
+6,6,176,MODOLO Sacha,29,UAE Team Emirates,175,90,6:24:38,None,2017
+7,7,57,DEGENKOLB John,28,Trek - Segafredo,150,80,6:24:38,None,2017
+8,8,241,POZZATO Filippo,35,Wilier Triestina - Selle Italia,125,70,6:24:38,None,2017
+9,9,213,CHAVANEL Sylvain,37,Direct Energie,100,60,6:24:38,None,2017
+10,10,135,COLBRELLI Sonny,26,Bahrain Merida Pro Cycling Team,85,50,6:24:38,None,2017
+11,11,98,VALGREN Michael,25,Astana Pro Team,70,46,6:24:38,None,2017
+12,12,63,DURBRIDGE Luke,25,ORICA-Scott,60,42,6:24:38,None,2017
+13,13,18,TRENTIN Matteo,27,Quick-Step Floors,50,38,6:24:38,None,2017
+14,14,194,OFFREDO Yoann,30,Wanty - Groupe Gobert,40,34,6:24:38,None,2017
+15,15,103,MOSCON Gianni,22,Team Sky,35,30,6:24:38,None,2017
+16,16,118,THWAITES Scott,27,Team Dimension Data,30,28,6:24:38,None,2017
+17,17,23,GALLOPIN Tony,28,Lotto Soudal,30,26,6:24:38,None,2017
+18,18,124,OLIVEIRA Nelson,28,Movistar Team,30,24,6:24:38,None,2017
+19,19,54,FELLINE Fabio,27,Trek - Segafredo,30,22,6:24:46,None,2017
+20,20,24,GREIPEL André,34,Lotto Soudal,30,20,6:26:14,None,2017
+21,21,84,PLANCKAERT Baptiste,28,Team Katusha Alpecin,20,19,6:26:14,None,2017
+22,22,111,BOASSON HAGEN Edvald,29,Team Dimension Data,20,18,6:26:14,None,2017
+23,23,71,NAESEN Oliver,26,AG2R La Mondiale,20,17,6:26:17,None,2017
+24,24,44,BETTIOL Alberto,23,Cannondale-Drapac Pro Cycling Team,20,16,6:26:17,None,2017
+25,25,66,EDMONDSON Alex,23,ORICA-Scott,20,15,6:27:15,None,2017
+26,26,217,PETIT Adrien,26,Direct Energie,20,14,6:27:15,None,2017
+27,27,1,SAGAN Peter,27,BORA - hansgrohe,20,13,6:27:15,None,2017
+28,28,162,ARNDT Nikias,25,Team Sunweb,20,12,6:27:15,None,2017
+29,29,233,LIGTHART Pim,28,Roompot - Nederlandse Loterij,20,11,6:27:15,None,2017
+30,30,68,CORT Magnus,24,ORICA-Scott,20,10,6:27:15,None,2017
+31,31,75,DUVAL Julien,26,AG2R La Mondiale,10,9,6:27:15,None,2017
+32,32,91,BRESCHEL Matti,32,Astana Pro Team,10,8,6:27:15,None,2017
+33,33,175,MARCATO Marco,33,UAE Team Emirates,10,7,6:27:15,None,2017
+34,34,156,LADAGNOUS Matthieu,32,FDJ,10,6,6:27:15,None,2017
+35,35,13,VERMOTE Julien,27,Quick-Step Floors,10,5,6:27:15,None,2017
+36,36,15,LAMPAERT Yves,25,Quick-Step Floors,10,5,6:27:15,None,2017
+37,37,11,BOONEN Tom,36,Quick-Step Floors,10,5,6:27:15,None,2017
+38,38,58,VAN POPPEL Boy,29,Trek - Segafredo,10,5,6:27:15,None,2017
+39,39,192,BACKAERT Frederik,27,Wanty - Groupe Gobert,10,5,6:27:15,None,2017
+40,40,226,SÉNÉCHAL Florian,23,"Cofidis, Solutions Crédits",10,5,6:27:15,None,2017
+41,41,35,KÜNG Stefan,23,BMC Racing Team,10,5,6:27:15,None,2017
+42,42,88,POLITT Nils,23,Team Katusha Alpecin,10,5,6:27:15,None,2017
+43,43,138,PIBERNIK Luka,23,Bahrain Merida Pro Cycling Team,10,5,6:27:15,None,2017
+44,44,181,VAN HECKE Preben,34,Sport Vlaanderen - Baloise,10,5,6:27:15,None,2017
+45,45,72,VANDENBERGH Stijn,32,AG2R La Mondiale,10,5,6:27:15,None,2017
+46,46,185,SPRENGERS Thomas,27,Sport Vlaanderen - Baloise,10,5,6:27:15,None,2017
+47,47,97,LUTSENKO Alexey,24,Astana Pro Team,10,5,6:27:15,None,2017
+48,48,191,VAN KEIRSBULCK Guillaume,26,Wanty - Groupe Gobert,10,5,6:27:15,None,2017
+49,49,32,DILLIER Silvan,26,BMC Racing Team,10,5,6:27:15,None,2017
+50,50,248,ZHUPA Eugert,26,Wilier Triestina - Selle Italia,10,5,6:27:15,None,2017
+51,51,51,STUYVEN Jasper,24,Trek - Segafredo,5,5,6:27:15,None,2017
+52,52,42,VAN ASBROECK Tom,26,Cannondale-Drapac Pro Cycling Team,5,5,6:27:15,None,2017
+53,53,196,PASQUALON Andrea,29,Wanty - Groupe Gobert,5,5,6:27:15,None,2017
+54,54,205,DUIJN Huub,32,Vérandas Willems-Crelan ,5,5,6:27:15,None,2017
+55,55,3,BURGHARDT Marcus,33,BORA - hansgrohe,5,5,6:27:15,None,2017
+56,56,151,DÉMARE Arnaud,25,FDJ,3,5,6:27:15,None,2017
+57,57,52,THEUNS Edward,25,Trek - Segafredo,3,5,6:27:15,None,2017
+58,58,144,TANKINK Bram,38,Team LottoNL-Jumbo,3,5,6:27:15,None,2017
+59,59,115,JANSE VAN RENSBURG Reinardt,28,Team Dimension Data,3,5,6:27:15,None,2017
+60,60,83,HOLLENSTEIN Reto,31,Team Katusha Alpecin,3,5,6:27:15,None,2017
+61,61,37,OSS Daniel,30,BMC Racing Team,,5,6:27:15,None,2017
+62,62,202,BILLE Gaëtan,28,Vérandas Willems-Crelan ,,5,6:27:20,None,2017
+63,63,247,TURRIN Alex,24,Wilier Triestina - Selle Italia,,5,6:27:20,None,2017
+64,64,101,STANNARD Ian,29,Team Sky,,5,6:27:21,None,2017
+65,65,212,COQUARD Bryan,24,Direct Energie,,5,6:27:21,None,2017
+66,66,6,BODNAR Maciej,32,BORA - hansgrohe,,5,6:27:21,None,2017
+67,67,16,ŠTYBAR Zdeněk,31,Quick-Step Floors,,5,6:27:21,None,2017
+68,68,134,GARCÍA CORTINA Iván,21,Bahrain Merida Pro Cycling Team,,5,6:28:00,None,2017
+69,69,65,BEWLEY Sam,29,ORICA-Scott,,5,6:28:17,None,2017
+70,70,157,LE GAC Olivier,23,FDJ,,5,6:30:44,None,2017
+71,71,195,MCNALLY Mark,27,Wanty - Groupe Gobert,,5,6:30:44,None,2017
+72,72,43,LANGEVELD Sebastian,32,Cannondale-Drapac Pro Cycling Team,,5,6:30:44,None,2017
+73,73,87,MØRKØV Michael,31,Team Katusha Alpecin,,5,6:30:44,None,2017
+74,74,161,KRAGH ANDERSEN Søren,22,Team Sunweb,,5,6:31:47,None,2017
+75,75,53,DE KORT Koen,34,Trek - Segafredo,,5,6:31:47,None,2017
+76,76,197,VANSPEYBROUCK Pieter,30,Wanty - Groupe Gobert,,5,6:31:47,None,2017
+77,77,178,ZURLO Federico,23,UAE Team Emirates,,5,6:32:20,None,2017
+78,78,166,SINKELDAM Ramon,28,Team Sunweb,,5,6:32:20,None,2017
+79,79,92,DE VREESE Laurens,28,Astana Pro Team,,5,6:32:20,None,2017
+80,80,2,PFINGSTEN Christoph,29,BORA - hansgrohe,,5,6:32:20,None,2017
+81,81,167,TEUNISSEN Mike,24,Team Sunweb,,5,6:32:20,None,2017
+82,82,47,MULLEN Ryan,22,Cannondale-Drapac Pro Cycling Team,,5,6:32:20,None,2017
+83,83,14,KEISSE Iljo,34,Quick-Step Floors,,5,6:32:20,None,2017
+84,84,184,VAN GESTEL Dries,22,Sport Vlaanderen - Baloise,,5,6:32:20,None,2017
+85,85,214,DUCHESNE Antoine,25,Direct Energie,,5,6:32:20,None,2017
+86,86,94,GRIVKO Andrey,33,Astana Pro Team,,5,6:32:20,None,2017
+87,87,125,ERVITI Imanol,33,Movistar Team,,5,6:32:20,None,2017
+88,88,198,SMITH Dion,24,Wanty - Groupe Gobert,,5,6:32:20,None,2017
+89,89,128,SÜTTERLIN Jasha,24,Movistar Team,,5,6:32:20,None,2017
+90,90,164,CURVERS Roy,37,Team Sunweb,,5,6:32:20,None,2017
+91,91,61,HAYMAN Mathew,38,ORICA-Scott,,5,6:32:20,None,2017
+92,92,64,DOCKER Mitchell,30,ORICA-Scott,,5,6:32:20,None,2017
+93,93,193,KREDER Wesley,26,Wanty - Groupe Gobert,,5,6:32:20,None,2017
+94,94,183,RICKAERT Jonas,23,Sport Vlaanderen - Baloise,,5,6:32:20,None,2017
+95,95,216,MORICE Julien,25,Direct Energie,,5,6:32:20,None,2017
+96,96,152,DELAGE Mickaël,31,FDJ,,5,6:32:20,None,2017
+97,97,141,BOOM Lars,31,Team LottoNL-Jumbo,,5,6:32:20,None,2017
+98,98,222,CLAEYS Dimitri,29,"Cofidis, Solutions Crédits",,5,6:32:20,None,2017
+99,99,33,DRUCKER Jempy,30,BMC Racing Team,,5,6:32:20,None,2017
+100,100,187,STEELS Stijn,27,Sport Vlaanderen - Baloise,,5,6:32:20,None,2017
+101,101,204,DE BONDT Dries,25,Vérandas Willems-Crelan ,,5,6:32:20,None,2017
+102,102,105,KNEES Christian,36,Team Sky,,5,6:35:16,None,2017
+103,103,76,HOULE Hugo,26,AG2R La Mondiale,,5,6:35:16,None,2017
+104,104,113,EISEL Bernhard,36,Team Dimension Data,,5,6:35:16,None,2017
+105,105,142,CASTELIJNS Twan,28,Team LottoNL-Jumbo,,5,6:35:16,None,2017
+106,106,108,WIŚNIOWSKI Łukasz,25,Team Sky,,5,6:35:16,None,2017
+107,107,56,REIJNEN Kiel,30,Trek - Segafredo,,5,6:35:16,None,2017
+108,108,106,DOULL Owain,23,Team Sky,,5,6:35:16,None,2017
+109,109,201,DEVOLDER Stijn,37,Vérandas Willems-Crelan ,,5,6:35:16,None,2017
+110,110,46,SCULLY Tom,27,Cannondale-Drapac Pro Cycling Team,,5,6:35:16,None,2017
+111,111,78,BARBIER Rudy,24,AG2R La Mondiale,,5,6:35:16,None,2017
+112,112,5,SAGAN Juraj,28,BORA - hansgrohe,,5,6:35:16,None,2017
+113,113,246,ANDRIATO Rafael,29,Wilier Triestina - Selle Italia,,5,6:35:16,None,2017
+114,114,188,VAN LERBERGHE Bert,24,Sport Vlaanderen - Baloise,,5,6:35:16,None,2017
+115,115,145,VAN HOECKE Gijs,25,Team LottoNL-Jumbo,,5,6:35:16,None,2017
+116,116,143,JANSEN Amund Grøndahl,23,Team LottoNL-Jumbo,,5,6:35:16,None,2017
+117,117,215,GÈNE Yohann,35,Direct Energie,,5,6:35:16,None,2017
+118,118,218,PICHOT Alexandre,34,Direct Energie,,5,6:35:16,None,2017
+119,119,55,RAST Grégory,37,Trek - Segafredo,,5,6:35:16,None,2017
+120,120,102,ROWE Luke,27,Team Sky,,5,6:35:16,None,2017
+121,121,114,FARRAR Tyler,32,Team Dimension Data,,5,6:35:16,None,2017
